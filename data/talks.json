@@ -1,0 +1,44 @@
+[
+  {
+    "title": "The Future of Artificial Intelligence",
+    "speakers": ["Dr. Evelyn Reed"],
+    "category": ["AI", "Machine Learning"],
+    "duration": 60,
+    "description": "A deep dive into the latest advancements in AI and what to expect in the coming years."
+  },
+  {
+    "title": "Building Scalable Web Applications",
+    "speakers": ["John Smith", "Jane Doe"],
+    "category": ["Web Development", "Scalability"],
+    "duration": 60,
+    "description": "Learn the best practices for designing and building web applications that can handle millions of users."
+  },
+  {
+    "title": "Cybersecurity in a Post-Quantum World",
+    "speakers": ["Alex Chen"],
+    "category": ["Cybersecurity", "Quantum Computing"],
+    "duration": 60,
+    "description": "An overview of the threats and opportunities that quantum computing brings to the field of cybersecurity."
+  },
+  {
+    "title": "The Rise of Serverless Architectures",
+    "speakers": ["Maria Garcia"],
+    "category": ["Serverless", "Cloud Computing"],
+    "duration": 60,
+    "description": "Explore the benefits and challenges of serverless computing and how to leverage it in your projects."
+  },
+  {
+    "title": "Frontend Frameworks: A Comparative Analysis",
+    "speakers": ["David Lee", "Susan White"],
+    "category": ["Frontend", "Web Development"],
+    "duration": 60,
+    "description": "A comprehensive comparison of the most popular frontend frameworks, including React, Vue, and Angular."
+  },
+  {
+    "title": "The Ethics of AI",
+    "speakers": ["Dr. Ben Carter"],
+    "category": ["AI", "Ethics"],
+    "duration": 60,
+    "description": "A discussion on the ethical considerations and societal impact of artificial intelligence."
+  }
+]
